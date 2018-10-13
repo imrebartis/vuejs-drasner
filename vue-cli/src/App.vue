@@ -126,5 +126,4 @@ button.submit:hover {
 .item img {
   align-self: center;
 }
-
 </style>
